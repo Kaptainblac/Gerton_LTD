@@ -1317,37 +1317,37 @@ a:hover {
 ======================================*/
 
 .card-box-d .card-overlay-hover {
-  transition: all .2s ease-in-out;
+  transition: none;
   padding: 15px 40px 15px 35px;
 }
 
 .card-box-d .title-d {
-  transition: .3s ease-in-out;
+  transition: none;
   font-size: 2rem;
   font-weight: 600;
   margin: 1rem 0;
   -webkit-transform: translateY(-20px);
   transform: translateY(-20px);
-  opacity: 0;
+  opacity: 1;
 }
 
 .card-box-d .content-d {
-  opacity: 0;
-  transition: .5s ease-in-out;
+  opacity: 1;
+  transition: none;
   -webkit-transform: translateY(-40px);
   transform: translateY(-40px);
 }
 
 .card-box-d .info-agents {
-  opacity: 0;
-  transition: .5s ease-in-out;
+  opacity: 1;
+  transition: none;
 }
 
 .card-box-d .card-footer-d {
-  transition: .5s ease-in-out;
+  transition: none;
   -webkit-transform: translateY(40px);
   transform: translateY(40px);
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   width: 100%;
   bottom: 10px;
