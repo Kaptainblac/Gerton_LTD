@@ -87,12 +87,22 @@ a:hover {
   color: #349AD6;
 }
 
+.color-c {
+  color: #9F8F6F;
+}
+
 .color-d {
   color: #adadad;
 }
 
 .color-text-a {
   color: #555555;
+}
+.color-text-b {
+  color: #5f6061;
+}
+.color-text-c {
+  color: #f0dd75;
 }
 
 .no-margin {
@@ -1135,6 +1145,7 @@ a:hover {
 
 .property-agent .title-agent {
   font-weight: 600;
+  color: #4ca0f5;
 }
 
 .property-agent ul {
@@ -1960,7 +1971,7 @@ footer .credits {
   }
 
   .section-t8 {
-    padding-top: 4rem;
+    padding-top: 2rem;
   }
 
   .section-t4 {
