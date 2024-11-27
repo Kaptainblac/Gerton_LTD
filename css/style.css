@@ -27,7 +27,7 @@ a:hover {
 }
 
 .link-two {
-  color: #000000;
+  color: #32C6C2;
   transition: all .5s ease;
 }
 
@@ -261,6 +261,29 @@ a:hover {
 .title-a {
   font-size: 2.6rem;
   font-weight: 600;
+}
+.title-b {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #349AD6;
+}
+
+.title-c {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #3B4444;
+}
+
+.title-d {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #9F8F6F;
+} 
+
+.title-e {
+  font-size: 2.6rem;
+  font-weight: 600;
+  color: #9F8F6F;
 }
 
 .title-link {
